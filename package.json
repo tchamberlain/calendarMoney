@@ -1,0 +1,12 @@
+{
+  "name": "calendarMoney",
+  "license": "UNLICENSED",
+  "private": true,
+  "dependencies": {
+    "body-parser": "^1.4.3",
+    "express": "^4.4.5",
+    "mongoose": "^4.1.0",
+  }
+}
+
+
